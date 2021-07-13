@@ -43,11 +43,11 @@ Mother Language: Georgian
 
 Other language(s): 
 * English (Advanced) 
-* Russian (Upper-Intermediate) 
+* Russian (Upper Intermediate) 
 * French(Beginner) 
 # Digital skills 
 
-* SQL, C#, React, Javascript, HTML, CSS. 
+* SQL, C#, React, Javascript, HTML, CSS. (Still in learning process)
 * MS Office: Word, PowerPoint, Excel, Access, MS Project. 
 * SPSS, Adobe Photoshop.
 
