@@ -13,6 +13,8 @@ Mobile number: +995 555 55 56 54
 
 Email: ana.solomonia@gmail.com
 
+[LinkedIn](https://www.linkedin.com/in/ana-solomonia-6370b2130/)
+
 
 Sex F | Date of birth 24/05/1998 | Nationality Georgia
 
